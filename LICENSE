@@ -1,16 +1,3 @@
-## Latex builder
-Docker image for building latex documents
-
-### Usage
-
-To get a copy of the image and start bash in it:
-```bash
-$ docker pull canesin/latex-builder
-$ docker run -rm -it canesin/latex-builder bash
-```
-
-### License
-
 The MIT License (MIT)
 
 Copyright (c) 2015 Fábio César Canesin <fabio.canesin@gmail.com>
